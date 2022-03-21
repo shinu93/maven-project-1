@@ -1,3 +1,3 @@
 Hello, World!
 this is shridhar!
-thirs edit!
+third edit!
